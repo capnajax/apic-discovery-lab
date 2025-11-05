@@ -6,7 +6,7 @@ env:
   API_HOST: apim-demo-mgmt-api-manager-tools.apps.itz-q4nkm4.infra01-lb.wdc07.techzone.ibm.com
   PROVIDER_ORG: tech-jam-12
   API_FILES: APIfolder/photos.yaml
-  PLATFORM_API_PREFIX: 'TODO'
+  PLATFORM_API_PREFIX: apim-demo-mgmt-platform-api
   INSECURE_SKIP_TLS_VERIFY: true
   #API_FILES: APIfolder/uber-api.json
   #API_FILES: APIfolder/coffee-store.yaml
